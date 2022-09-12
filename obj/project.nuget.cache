@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KIoeCj/pGPcwB4qYr8zI27n3t/eUdv6ZGgvVQRHnLzakfDodFM00w4JhosXxpvYSY68vAmeRAfmykZ4a9NH62Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\e\\Desktop\\Assessments\\Airports\\Airports.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\e\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
